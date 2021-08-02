@@ -8,8 +8,6 @@
 <code>I like doing animations in Adobe After Effects. ❤</code>
 <code>Anime lover. 😉</code>
 
-<code>I spend my free time on <a href="https://t.me/svr666">Telegram</a>. 😇</code>
-
 <img src="https://github.com/svr666/svr666/blob/master/gifs/coding.gif" alt="coding ?">
 
 <b>Skills :</b> <code>Python</code> | <code>C Sharp</code> | <code>PHP</code> | <code>C</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code>
