@@ -13,6 +13,6 @@
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=svr666&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=ffffff&icon_color=2979FF&bg_color=151b24" alt="SVR's github stats">
 
-<br><img src="https://gpvc.arturio.dev/svr666" alt="Profile views">
+<br><img src="https://komarev.com/ghpvc/?username=SVR666&style=flat-square&color=2979FF" alt="Profile views">
 
 </div>
