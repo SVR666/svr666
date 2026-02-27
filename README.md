@@ -10,13 +10,15 @@
   <hr>
   <h3>💼 About Me</h3>
   <p align="left">
-    💻 5+ years building scalable backend & full-stack applications<br>
+    💻 5+ years building scalable backend systems and full-stack applications<br>
     🚀 Strong in API design, clean architecture & production deployments<br>
     📱 Building mobile apps using Flutter<br>
     🐳 Using Docker to containerize applications and manage environments<br>
     ⚙️ Setting up CI/CD workflows and automation with GitHub Actions<br>
-    🏠 Managing and configuring self-hosted servers and private infrastructure<br>
-    🎯 Focused on writing clean, maintainable code and following best practices
+    🏠 Managing and securing self-hosted servers & private infrastructure<br>
+    🎯 Focused on writing clean, maintainable code and following best practices<br>
+    🧠 Prioritizing performance, reliability, and long-term maintainability<br>
+    🛠️ Solving complex engineering problems with pragmatic solutions
   </p>
   <hr>
   <h3>💻 Languages</h3>
